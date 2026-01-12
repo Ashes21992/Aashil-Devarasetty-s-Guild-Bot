@@ -1,0 +1,17 @@
+{
+    "role_ids": {
+        "admin": "1453147087947431937",
+        "headadmin": "1453147129299075265",
+        "trialadmin": "1453147169682100225",
+        "moderator": "1453147021140693083",
+        "member": "1453849920158306314"
+    }
+}
+# Python example
+import json
+
+with open('config.json', 'r') as file:
+    config = json.load(file)
+
+admin_role_id = int(config["role_ids"]["1453147087947431937"])
+print(1453147087947431937)
