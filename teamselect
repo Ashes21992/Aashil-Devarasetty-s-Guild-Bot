@@ -1,0 +1,318 @@
+const { SlashCommandBuilder, PermissionFlagsBits } = require('discord.js');
+
+module.exports = {
+    data: new SlashCommandBuilder(/teamselect)
+        .setName('teamselect')
+        .setDescription('Select your Team')
+        .setDefaultMemberPermissions(PermissionFlagsBits.SendMessages),
+
+    async execute(interaction) {
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        const roleId = '0000000000000000000'; // Replace with your role ID
+        const role = interaction.guild.roles.cache.get(roleId);
+
+        if (!teamselect) {
+            return interaction.reply({ content: '❌ Can't Join that Team!', ephemeral: true });
+        }
+
+        if (interaction.member.roles.cache.has(roleId)) {
+            return interaction.reply({ content: '✅ You're already in that Team!', ephemeral: true });
+        }
+
+        try {
+            await interaction.member.roles.add(role);
+            await interaction.reply({ content: `🎉 You have been given the **${role.name}** role!`, ephemeral: true });
+        } catch (error) {
+            console.error(error);
+            await interaction.reply({ content: '⚠️ I could not assign the role. Check my permissions.', ephemeral: true });
+        }
+    },
+};
